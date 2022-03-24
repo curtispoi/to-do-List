@@ -6,8 +6,7 @@ This project demonstrates a styled version of a To Do list using React.useState.
 Working off the boilerplate example, I added empty checkboxes along the left hand side that changed to 'checked' when clicked. The task background also gets darker and the text changes to green. I also separated out the 'remove' option into its own div, and the checkboxes will only be removed if that specific area is clicked (not the entire todo item.)
 
 ## Future Improvements
-I'd like to turn this into a basic Kanban board, add a 'pomodoro mode' that lets you stage tasks for 25 minute bursts and set a timer, and add animations for when tasks are completed.  
-- [X] Change the styling to mimic GitHub project kanban  
+.   
 - [X] Make notes editable  
 - [X] Add counter to top of column  
 - [X] Add drop-down menu on notes  
